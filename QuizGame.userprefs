@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ComandosBasicos.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NotaFinal.cs" Line="36" Column="24" />
+      <File FileName="Assets\Scripts\Responder.cs" Line="33" Column="25" />
+      <File FileName="Assets\Scripts\TemaJogo.cs" Line="54" Column="30" />
+      <File FileName="Assets\Scripts\TemaInfo.cs" Line="25" Column="69" />
+      <File FileName="Assets\Scripts\ComandosBasicos.cs" Line="13" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
